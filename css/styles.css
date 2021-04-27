@@ -69,10 +69,12 @@ a{
 }
 .music-hed{
   margin-right: 500px;
+  left-margin: 30px;
 }
 .web-img{
   width: 10%;
   float: right;
+  margin-left: 30px;
 }
 .skill-row{
   margin-bottom: 100px;
