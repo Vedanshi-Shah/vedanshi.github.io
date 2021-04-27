@@ -1,0 +1,116 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  color: #66BFBF;
+
+}
+p{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+h2{
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  color: #66BFBF;
+}
+.normal{
+  font-weight: normal;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5em;
+  color: #66BFBF;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+}
+.top-box{
+    background-color: #ccf2f4;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+.profile-pic{
+  border-radius: 100%;
+  width: 250px;
+}
+.profile-des{
+  margin: auto 500px auto 500px;
+}
+.music-img{
+  width: 10%;
+  float: left;
+
+  margin-right: 30px;
+}
+.skill-des{
+  margin-right: 500px;
+}
+.music-hed{
+  margin-right: 500px;
+}
+.web-img{
+  width: 10%;
+  float: right;
+}
+.skill-row{
+  margin-bottom: 100px;
+}
+hr{
+  border: dotted grey 6px;
+  margin-top: 30px;
+  width: 10%;
+  border-bottom: none;
+  margin-bottom: 50px;
+}
+.btn {
+  margin-bottom: 50px;
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 17;
+  -moz-border-radius: 17;
+  border-radius: 17px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 26px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin-top: 50px;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.contact-me{
+  margin-bottom: 50px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-bottom: 0;
+  padding: 50px 0 20px;
+}
