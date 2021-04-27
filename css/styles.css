@@ -64,11 +64,17 @@ a{
   margin-left: 30px;
   margin-right: 30px;
 }
-.skill-des{
-  margin-right: 500px;
-}
 .music-hed{
-  margin-right: 500px;
+  text-align: left;
+}
+.web-hed{
+  text-align: right;
+}
+.skill-des2{
+  text-align: right;
+}
+.skill-des1{
+  text-align: left;
 }
 .web-img{
   width: 10%;
